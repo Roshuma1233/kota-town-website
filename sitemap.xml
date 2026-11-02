@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-PUBLISHED-DOMAIN with the real hosting domain before submitting the live sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/Index.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/About.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/Services.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/Gallery.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/Enquiry.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN/Contact.html</loc></url>
+</urlset>
