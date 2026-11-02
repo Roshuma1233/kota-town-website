@@ -18,4 +18,4 @@
 - External CSS stylesheet, responsive layouts, Grid and Flexbox, typography, navigation, image and form styling.
 
 ## Lecturer feedback record
-- Part 2 feedback/mark sheet was not supplied with the project ZIP. Record each lecturer comment and the corresponding correction here when the feedback is received.
+- Part 2 feedback: 93/100
